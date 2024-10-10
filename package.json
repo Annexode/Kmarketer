@@ -1,0 +1,14 @@
+{
+  "name": "kmarketer",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "alpha": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
